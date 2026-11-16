@@ -1,5 +1,6 @@
 p{
     font-size:20;
+    background-color: blue;
 }
 
 
@@ -7,12 +8,25 @@ p{
 
 .cs3{
     color:aqua;
+    background-color: aquamarine;
 }
 
 #ab{
     color:aqua;
+    background-color: red ;
 }
 
 .abes{
     color:aqua;
+    background-color: blueviolet;
+}
+
+div{
+    
+    font-size: 100px;
+    padding: 100px 20px;
+    color:bisque;
+     background-color: pink;
+     border: 10px solid red;
+     margin: 50px;
 }
